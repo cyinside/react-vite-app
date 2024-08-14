@@ -1,0 +1,14 @@
+.chat{
+  .MuiOutlinedInput-root{
+    border-radius:10px;
+    border-color:#D5D5D5;
+  }
+  .MuiIconButton-root{
+    border-radius:10px;
+    background-color:#D5D5D5;
+    margin-right: 0;
+  }
+  button:focus, button:focus-visible{
+    outline: none;
+  }
+}
